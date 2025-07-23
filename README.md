@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Phil-Lance
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Javascript and doing a coding challenge @ www.onecodeperweek.com
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me philippelalancette@gmail.com
 - 😄 Pronouns: He/Him
